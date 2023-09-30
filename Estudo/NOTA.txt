@@ -1,0 +1,17 @@
+Olá,
+
+Conforme fui avisado, tenho apenas dois dias para concluir os exercícios. No entanto, enfrentei alguns desafios, como o fato de trabalhar em um mercado até às 22:00, o que me obrigou a escrever o código com pressa. Além disso, faz um bom tempo desde que estive ativo na área de TI.
+
+Devido a essas circunstâncias, precisei dividir meu tempo limitado entre relembrar a linguagem de programação e desenvolver as soluções. Como resultado:
+
+1. Não tive a oportunidade de me concentrar no design do layout ou na responsividade da interface.
+2. A organização do código não foi uma prioridade, e sei que poderia otimizá-lo melhor, usando funções para partes repetidas, separando arquivos de CSS/JS, considerando o uso de ferramentas como o SCSS que ajuda na organização, e mantendo o arquivo de conexão focado apenas na conexão com o banco de dados, entre outras práticas recomendadas de programação.
+3. Não implementei a validação das entradas, o que significa que é possível adicionar um usuário sem preencher os campos, criando um registro vazio no banco de dados. Além disso, permiti entradas NULL no banco de dados.
+
+Parei no exercício 2, mas se eu tiver mais um tempo, posso trabalhar no terceiro exercício.
+
+Entendo que faz um bom tempo desde que estive ativo na área de TI, mas quero destacar que sou muito esforçado e dedicado para aprender. Farei o meu melhor para melhorar minhas habilidades e me atualizar rapidamente.
+Agradeço pela compreensão e pela oportunidade de participar desses exercícios.
+
+Atenciosamente,
+Vinícius Ávila

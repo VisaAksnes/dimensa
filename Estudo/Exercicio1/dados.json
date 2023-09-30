@@ -1,0 +1,84 @@
+{
+  "dadosClientes": [
+    {
+      "cpf": "01125444455",
+      "nome": "Tereza Almeida Lopez",
+      "dataNascimento": "1990-07-10",
+      "sexo": "F",
+      "estadoCivil": "Casado",
+      "email": "terezinha_al@gmail.com",
+      "cidade": "Cataguases",
+      "endereco": "Avenida Paulista",
+      "numero": "789",
+      "bairro": "Jardim Colorado",
+      "contatos": [
+        14444444444,
+        19876543210,
+        15551234567
+      ]
+    },
+    {
+      "cpf": "77785423458",
+      "nome": "Pedro Paulo Moreira",
+      "dataNascimento": "1988-03-06",
+      "sexo": "M",
+      "estadoCivil": "solteiro",
+      "email": null,
+      "cidade": "Leopoldina",
+      "endereco": "Avenida Atlântica",
+      "numero": "456",
+      "bairro": "Centro"
+    },
+    {
+      "cpf": "77845699825",
+      "nome": "Lucio Rodrigues Lopez",
+      "dataNascimento": "1984-10-27",
+      "sexo": "M",
+      "estadoCivil": "solteiro",
+      "email": "lucio@gmail.com",
+      "cidade": "Vila Velha",
+      "endereco": "Cataguases",
+      "numero": "6",
+      "bairro": "Jardim Colorado",
+      "contatos": [
+        14444444444,
+        19876543210,
+        15551234567
+      ]
+    },
+    {
+      "cpf": "77745865241",
+      "nome": "Lucas Silveira",
+      "dataNascimento": "1998-05-04",
+      "sexo": "M",
+      "estadoCivil": "solteiro",
+      "email": "lucas@gmail.com",
+      "cidade": "Belo Horizonte",
+      "endereco": "Rua da Bahia",
+      "numero": "789",
+      "bairro": "Savassi",
+      "contatos": [
+        14444444444,
+        19876543210,
+        15551234567
+      ]
+    },
+    {
+      "cpf": "12248755568",
+      "nome": "Eduarda Medeiros de Souza",
+      "dataNascimento": "1999-10-15",
+      "sexo": "F",
+      "estadoCivil": "solteiro",
+      "email": "duda@gmail.com",
+      "cidade": "Leopoldina",
+      "endereco": "Rua Padre Chagas",
+      "numero": "34",
+      "bairro": "Moinhos de Vento",
+      "contatos": [
+        14444444444,
+        19876543210,
+        15551234567
+      ]
+    }
+  ]
+}

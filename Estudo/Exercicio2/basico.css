@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    border: 1px solid black;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: col;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+input, select, button{
+    Flex-basis: 150px;
+    margin: 10px 10px;
+    height:30px;
+}

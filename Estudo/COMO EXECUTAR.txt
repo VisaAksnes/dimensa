@@ -1,0 +1,3 @@
+Configurei a porta do banco de dados para 3312. Se a sua estiver usando a porta padrão (3306), 
+você precisará fazer a troca no arquivo conexao.php. 
+Basicamente a conexão com o banco é o unico arquivo que precisa ser mudado.
